@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Práctica Kubernetes"
+title:  "Práctica 01-03"
 date:   2024-02-18 07:24:25 -0600
 categories: kubernetes iaw
 ---
