@@ -5,9 +5,9 @@ date:   2024-02-18 07:24:25 -0600
 categories: docker iaw
 ---
 
-Práctica sobre Docker
+Creación y configuración de un certificado SSL/TLS autofirmado en Apache
 
-![]({{ site.url }}/images/docker.png)
+![]({{ site.url }}/images/ssl.png)
 
 # IAW - Práctica 01-04
 En esta práctica vamos a crear un certificado SSL/TLS autofirmado con la herramienta openssl. Una vez creado vamos a configurar el servidor web Apache para que utilice dicho certificado.
